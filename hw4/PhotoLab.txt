@@ -1,0 +1,10 @@
+Project: Assignment3 EECS22 2022 Winter
+Author : Kevin Zhu (Jiancong Zhu)
+	85011328
+
+
+This assignment4 is a more advanced project based on assignment3. 
+This lab tested our ability to work with dynamic image sizes and our ability to work with pointers. 
+I had to use malloc and free allocate space in memory to keep track of the pixel's data. 
+Converting our previous DIPs to this new form was definitely a challenge and requires
+a lot of caution because one change can break the whole code.

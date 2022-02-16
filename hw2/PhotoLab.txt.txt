@@ -1,0 +1,7 @@
+Kevin Zhu 85011328
+
+This PhotoLab project allows the users to upload images and apply various filters
+to them. When approaching each funciton,like vflip, boarder , and so on. I used for loops to process the 2d
+arrays of pixels and used logical and mathimatical reasoning to transform the
+pixels to the desired filter. I used nested loops to process 2d matrices because
+it is efficient and clear. 

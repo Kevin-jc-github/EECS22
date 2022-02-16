@@ -1,0 +1,5 @@
+I first defined various variables, and used those variables to store day, month, and year. 
+Secondly, I started the input section first. I used printf statements to let users enter their data. 
+Then add if statements to face the situation in January and February. 
+But because I found that this would cause the year and month to change, I added a variable that stores temporary values such as day-temp. 
+Finally, I used Zeller’s congruence formula for calculations.

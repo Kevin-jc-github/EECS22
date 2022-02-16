@@ -1,0 +1,10 @@
+Project: Assignment3 EECS22 2022 Winter
+Author : Kevin Zhu (Jiancong Zhu)
+	85011328
+
+Lab 3 was very similar to Lab 2. But the Makefile did give me trouble, and
+I had to spend a lot of time thinking about the dependies of each
+target and that helped me flesh out how to write this program. I looked the power
+point of the lecture again and again. Because before I figured out how to make 
+a correct Makefile, when I ran my Makefile, it showed a lot of error.
+
