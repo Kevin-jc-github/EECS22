@@ -1,0 +1,8 @@
+Project: Assignment5 EECS22 2022 Winter
+Author : Kevin Zhu (Jiancong Zhu)
+	85011328
+
+
+This time assignment5 is more advanced, 
+it requires us to operate not only pictures, but also videos. 
+This is very difficult, and I have many functions that have not been able to run successfully.
